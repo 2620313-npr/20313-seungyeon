@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <title>당뇨 시뮬레이터</title>
   <link rel="stylesheet" href="style.css">
+  
+  
+  <script src="script.js"></script>
 </head>
 <body>
 
@@ -138,7 +141,5 @@
 
   <button onclick="closeInfo()">닫기</button>
 </div>
-  
-  <script src="script.js"></script>
 </body> 
 </html>
